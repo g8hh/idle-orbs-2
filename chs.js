@@ -94,7 +94,7 @@ var cnItems = {
     "tick": "打钩",
     "to lock orbit position": "锁定轨道位置",
     "to toggle shop": "切换商店",
-    "Unlock After": "之后解锁",
+    "Unlock After": "解锁于",
     "Unlock Auto Bounce": "解锁自动反弹",
     "Use your orbs in The Monster Tower to get Mana.": "在怪物塔中使用你的球体来获得法力。",
     "Value": "价值",
