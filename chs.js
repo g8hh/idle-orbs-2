@@ -75,7 +75,7 @@ var cnItems = {
     "None": "无",
     "Normal gravity, drag, and high value. Spawns smaller, lower value orbs that despawn after a few seconds.": "正常重力、阻力和高值。生成更小、价值更低的小球，并在几秒钟后消失。",
     "Normal gravity, drag, value, etc.": "正常重力、阻力、数值等。",
-    "Orb Value Bonus: +": "宝珠价值奖励：+",
+    "Orb Value Bonus: +": "小球价值奖励：+",
     "Pixelated": "像素化",
     "Press \"E\"": "按“E”",
     "Prestige": "声望",
