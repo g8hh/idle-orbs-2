@@ -88,7 +88,7 @@ var cnItems = {
     "Set": "放",
     "So, what'll it be?": "那么，会是什么？",
     "Squares": "正方形",
-    "Starting Cash +1 ($": "起始现金 +1 ($",
+    "Starting Cash +1 ($": "初始现金 +1 ($",
     "The sequel nobody asked for": "没人要的续集",
     "This game is dedicated to you, Dad": "这个游戏是献给你的，爸爸",
     "tick": "打钩",
