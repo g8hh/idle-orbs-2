@@ -150,7 +150,7 @@ var cnItems = {
     "Angler": "琵琶鱼",
     "Fire Wisp": "火灵",
     "Bugger": "臭虫",
-    "": "",
+    "Axolotl Boss": "蝾螈Boss",
     "": "",
     "": "",
     "": "",
