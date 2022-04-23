@@ -158,7 +158,7 @@ var cnItems = {
     "Press \"Space\"": "按 “空格键”",
     "Starting Cash +1 [Prestige and start with $": "初始现金 +1 [声望后的初始现金 $",
     "once": "",
-    "": "",
+    "Squatch": "雪山野人",
     "": "",
     "": "",
     "": "",
